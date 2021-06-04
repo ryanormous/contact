@@ -1,0 +1,1 @@
+#!/usr/bin/env -S python3 -c "print(b''.fromhex('7279616e6f726d6f757340676d61696c2e636f6d').decode())"
